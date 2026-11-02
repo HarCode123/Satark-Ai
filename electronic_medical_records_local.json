@@ -1,0 +1,25 @@
+[
+  {
+    "emr_id": 1,
+    "consultation_id": 1001,
+    "patient_id": "PID-2026-004",
+    "patient_name": "Devi Prasad",
+    "age": 34,
+    "gender": "Male",
+    "height": "175 cm",
+    "weight": "74 kg",
+    "blood_group": "B+",
+    "doctor_id": "doctor@satark.ai",
+    "visit_date": "2026-10-31T10:00:00.000Z",
+    "chief_complaint": "Cough for 1 week following a cold, with thick yellowish-green mucus, chest tightness and soreness, and severe exhaustion.",
+    "symptoms": "Patient reports a 1-week history of cough following a cold, which started dry and progressed to coughing up thick, yellowish-green mucus. Accompanied by chest tightness, soreness, low-grade fever (99.8°F), and generalized exhaustion. Lower lung fields remain clear on examination.",
+    "diagnosis": "Acute bronchitis (inflammation of the airways)",
+    "medications": "Guaifenesin (Extended-Release) 600 mg, Ibuprofen 400 mg, Albuterol HFA Inhaler 90 mcg",
+    "dosage": "1 tablet Every 12 hours (Q12H); 1 tablet Every 6–8 hours as needed (PRN); 2 puffs Every 4–6 hours as needed (PRN)",
+    "advice": "Rest up adequately, use a humidifier at home, and drink plenty of water to help thin mucus. Note that while acute symptoms improve in 1 week, a mild cough can linger for 2 to 3 weeks.",
+    "follow_up_date": "Come back in 10 days if not improving",
+    "status": "Completed",
+    "created_at": "2026-10-31T10:00:00.000Z",
+    "updated_at": "2026-10-31T10:00:00.000Z"
+  }
+]

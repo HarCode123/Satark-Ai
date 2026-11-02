@@ -1,0 +1,444 @@
+[
+  {
+    "prescription_id": "rx-1793628104935-PID-2026-235",
+    "patient_id": "PID-2026-235",
+    "doctor_id": "doctor@satark.ai",
+    "doctor_name": "Dr. Harini, MD",
+    "visit_date": "2026-11-02",
+    "provisional_diagnosis": "Primary Essential Hypertension",
+    "medications_json": [
+      {
+        "medicineName": "Amlodipine",
+        "strength": "5 mg",
+        "dosage": "1 tablet",
+        "frequency": "Once daily in morning (QD)",
+        "duration": "30 days",
+        "instructions": "Take 1 tablet every morning with water.",
+        "purpose": "Calcium channel blocker for blood pressure control"
+      },
+      {
+        "medicineName": "Telmisartan",
+        "strength": "40 mg",
+        "dosage": "1 tablet",
+        "frequency": "Once daily (QD)",
+        "duration": "30 days",
+        "instructions": "Take 1 tablet once daily at the same time.",
+        "purpose": "Angiotensin receptor blocker for blood pressure control"
+      }
+    ],
+    "diet_advice": "Reduce sodium intake under 2g/day, engage in 30 mins aerobic walking, record morning BP daily.",
+    "follow_up": "Return in 4 weeks with home BP log.",
+    "doctors_notes": "Start dual antihypertensive therapy. Monitor BP and renal function.",
+    "full_prescription_json": {
+      "prescriptionId": "rx-1793628104935-PID-2026-235",
+      "id": "rx-1793628104935-PID-2026-235",
+      "patientDetails": {
+        "patientName": "Maya Patel",
+        "patientId": "PID-2026-235",
+        "age": "29",
+        "gender": "Female",
+        "height": "168 cm",
+        "weight": "58 kg",
+        "bmi": "20.5 (Normal)",
+        "bloodGroup": "A+",
+        "allergies": "Sulfa drugs (causes hives)",
+        "date": "2026-11-02",
+        "consultingDoctor": "Dr. Harini, MD"
+      },
+      "chiefComplaint": "High blood pressure readings (145/95 mmHg) and morning headaches.",
+      "historyOfPresentIllness": "Patient reports elevated home BP readings and tension-type headaches over past 2 weeks.",
+      "pastMedicalHistory": "No prior chronic illnesses.",
+      "allergies": "Sulfa drugs (causes hives)",
+      "vitals": {
+        "temperature": "36.8 °C",
+        "bloodPressure": "142/92 mmHg",
+        "pulse": "74 bpm",
+        "spo2": "99%",
+        "respiratoryRate": "16 breaths/min"
+      },
+      "clinicalExamination": "Cardiovascular exam: S1/S2 normal, no murmurs. Vitals: BP 142/92 mmHg.",
+      "provisionalDiagnosis": "Primary Essential Hypertension",
+      "investigationsAdvised": "Lipid Profile, Serum Electrolytes, Renal Function Test",
+      "medications": [
+        {
+          "medicineName": "Amlodipine",
+          "strength": "5 mg",
+          "dosage": "1 tablet",
+          "frequency": "Once daily in morning (QD)",
+          "duration": "30 days",
+          "instructions": "Take 1 tablet every morning with water.",
+          "purpose": "Calcium channel blocker for blood pressure control"
+        },
+        {
+          "medicineName": "Telmisartan",
+          "strength": "40 mg",
+          "dosage": "1 tablet",
+          "frequency": "Once daily (QD)",
+          "duration": "30 days",
+          "instructions": "Take 1 tablet once daily at the same time.",
+          "purpose": "Angiotensin receptor blocker for blood pressure control"
+        }
+      ],
+      "lifestyleDietAdvice": "Reduce sodium intake under 2g/day, engage in 30 mins aerobic walking, record morning BP daily.",
+      "followUp": "Return in 4 weeks with home BP log.",
+      "doctorsNotes": "Start dual antihypertensive therapy. Monitor BP and renal function."
+    },
+    "status": "approved",
+    "created_at": "2026-11-02T14:01:44.935Z",
+    "updated_at": "2026-11-02T14:01:44.936Z",
+    "approved_at": "2026-11-02T14:01:44.935Z"
+  },
+  {
+    "prescription_id": "RX-DRAFT-1793495356240",
+    "patient_id": "PID-2026-001",
+    "doctor_id": "doctor@satark.ai",
+    "doctor_name": "Dr. Harini, MD",
+    "visit_date": "2026-10-31",
+    "provisional_diagnosis": "General Assessment",
+    "medications_json": [],
+    "diet_advice": "",
+    "follow_up": "",
+    "doctors_notes": "",
+    "full_prescription_json": {
+      "patientDetails": {
+        "patientId": "PID-2026-001",
+        "patientName": "Harini Al-Mansoor",
+        "date": "2026-10-31"
+      },
+      "chiefComplaint": "Routine Checkup",
+      "provisionalDiagnosis": "General Assessment",
+      "medications": []
+    },
+    "status": "draft",
+    "created_at": "2026-11-01T01:09:16.247Z",
+    "updated_at": "2026-11-01T01:09:16.247Z"
+  },
+  {
+    "prescription_id": "RX-VERIFY-1793495356053",
+    "patient_id": "PID-2026-001",
+    "doctor_id": "doctor@satark.ai",
+    "doctor_name": "Dr. Harini, MD",
+    "visit_date": "2026-10-31",
+    "provisional_diagnosis": "Allergic Rhinitis",
+    "medications_json": [
+      {
+        "medicineName": "Cetirizine",
+        "strength": "10mg",
+        "dosage": "1 tab",
+        "frequency": "Daily",
+        "duration": "5 days",
+        "instructions": "Bedtime",
+        "purpose": "Allergy relief"
+      }
+    ],
+    "diet_advice": "",
+    "follow_up": "",
+    "doctors_notes": "",
+    "full_prescription_json": {
+      "patientDetails": {
+        "patientId": "PID-2026-001",
+        "patientName": "Harini Al-Mansoor",
+        "date": "2026-10-31"
+      },
+      "chiefComplaint": "Seasonal allergy and mild cough",
+      "provisionalDiagnosis": "Allergic Rhinitis",
+      "medications": [
+        {
+          "medicineName": "Cetirizine",
+          "strength": "10mg",
+          "dosage": "1 tab",
+          "frequency": "Daily",
+          "duration": "5 days",
+          "instructions": "Bedtime",
+          "purpose": "Allergy relief"
+        }
+      ]
+    },
+    "status": "approved",
+    "created_at": "2026-11-01T01:09:16.205Z",
+    "updated_at": "2026-11-01T01:09:16.215Z",
+    "approved_at": "2026-11-01T01:09:16.215Z"
+  },
+  {
+    "prescription_id": "RX-DRAFT-1793495301364",
+    "patient_id": "PID-2026-001",
+    "doctor_id": "doctor@satark.ai",
+    "doctor_name": "Dr. Harini, MD",
+    "visit_date": "2026-10-31",
+    "provisional_diagnosis": "Pharyngitis",
+    "medications_json": [],
+    "diet_advice": "",
+    "follow_up": "",
+    "doctors_notes": "",
+    "full_prescription_json": {
+      "patientDetails": {
+        "patientId": "PID-2026-001",
+        "patientName": "Harini Al-Mansoor",
+        "date": "2026-10-31"
+      },
+      "chiefComplaint": "Sore throat",
+      "provisionalDiagnosis": "Pharyngitis",
+      "medications": []
+    },
+    "status": "draft",
+    "created_at": "2026-11-01T01:08:21.490Z",
+    "updated_at": "2026-11-01T01:08:21.490Z"
+  },
+  {
+    "prescription_id": "RX-TEST-1793495295841",
+    "patient_id": "PID-2026-001",
+    "doctor_id": "doctor@satark.ai",
+    "doctor_name": "Dr. Harini, MD",
+    "visit_date": "2026-10-31",
+    "provisional_diagnosis": "Acute viral bronchitis",
+    "medications_json": [],
+    "diet_advice": "",
+    "follow_up": "",
+    "doctors_notes": "",
+    "full_prescription_json": {
+      "patientDetails": {
+        "patientId": "PID-2026-001",
+        "patientName": "Harini Al-Mansoor",
+        "date": "2026-10-31"
+      },
+      "chiefComplaint": "Dry cough",
+      "provisionalDiagnosis": "Acute viral bronchitis",
+      "medications": []
+    },
+    "status": "approved",
+    "created_at": "2026-11-01T01:08:15.996Z",
+    "updated_at": "2026-11-01T01:08:16.003Z",
+    "approved_at": "2026-11-01T01:08:16.003Z"
+  },
+  {
+    "prescription_id": "rx-test-p2-approved",
+    "patient_id": "PID-2026-002",
+    "doctor_id": "doctor@satark.ai",
+    "doctor_name": "Dr. Harini, MD",
+    "visit_date": "2026-10-25",
+    "provisional_diagnosis": "Mechanical Low Back Strain",
+    "medications_json": [
+      {
+        "medicineName": "Ibuprofen",
+        "strength": "400 mg",
+        "dosage": "1 tablet",
+        "frequency": "BID with food",
+        "duration": "5 days",
+        "instructions": "Take with meals"
+      }
+    ],
+    "diet_advice": "Rest and warm compression",
+    "follow_up": "Return if pain radiates to legs",
+    "doctors_notes": "Ergonomics reviewed",
+    "full_prescription_json": {
+      "patientDetails": {
+        "patientName": "Khalid Al-Zahrani",
+        "patientId": "PID-2026-002",
+        "age": "48",
+        "gender": "Male",
+        "height": "174 cm",
+        "weight": "84 kg",
+        "bmi": "27.7",
+        "bloodGroup": "A+",
+        "date": "2026-10-25",
+        "consultingDoctor": "Dr. Harini, MD"
+      },
+      "chiefComplaint": "Mild lumbar back ache",
+      "historyOfPresentIllness": "After lifting heavy box",
+      "pastMedicalHistory": "None",
+      "allergies": "Aspirin",
+      "vitals": {
+        "bloodPressure": "125/82 mmHg"
+      },
+      "clinicalExamination": "Paravertebral muscle spasm",
+      "provisionalDiagnosis": "Mechanical Low Back Strain",
+      "investigationsAdvised": "None",
+      "medications": [
+        {
+          "medicineName": "Ibuprofen",
+          "strength": "400 mg",
+          "dosage": "1 tablet",
+          "frequency": "BID with food",
+          "duration": "5 days",
+          "instructions": "Take with meals"
+        }
+      ],
+      "lifestyleDietAdvice": "Rest and warm compression",
+      "followUp": "Return if pain radiates to legs",
+      "doctorsNotes": "Ergonomics reviewed"
+    },
+    "status": "approved",
+    "created_at": "2026-10-25T10:55:31.731Z",
+    "updated_at": "2026-10-25T10:55:31.732Z",
+    "approved_at": "2026-10-25T10:55:31.732Z"
+  },
+  {
+    "prescription_id": "rx-test-p1-draft",
+    "patient_id": "PID-2026-001",
+    "doctor_id": "doctor@satark.ai",
+    "doctor_name": "Dr. Harini, MD",
+    "visit_date": "2026-10-25",
+    "provisional_diagnosis": "Pharyngitis - Viral",
+    "medications_json": [
+      {
+        "medicineName": "Paracetamol",
+        "strength": "650 mg",
+        "dosage": "1 tablet",
+        "frequency": "TID",
+        "duration": "3 days",
+        "instructions": "Take after meals"
+      }
+    ],
+    "diet_advice": "Warm saline gargles, plenty of fluids",
+    "follow_up": "Follow-up in 5 days if fever develops",
+    "doctors_notes": "Observation only",
+    "full_prescription_json": {
+      "patientDetails": {
+        "patientName": "Harini Al-Mansoor",
+        "patientId": "PID-2026-001",
+        "age": "28",
+        "gender": "Female",
+        "height": "165 cm",
+        "weight": "62 kg",
+        "bmi": "22.8",
+        "bloodGroup": "O+",
+        "date": "2026-10-25",
+        "consultingDoctor": "Dr. Harini, MD"
+      },
+      "chiefComplaint": "Mild throat irritation",
+      "historyOfPresentIllness": "Symptoms started 2 days ago",
+      "pastMedicalHistory": "Mild Essential Hypertension",
+      "allergies": "Penicillin",
+      "vitals": {
+        "temperature": "37.1 C",
+        "bloodPressure": "120/80 mmHg"
+      },
+      "clinicalExamination": "Throat mildly erythematous",
+      "provisionalDiagnosis": "Pharyngitis - Viral",
+      "investigationsAdvised": "None",
+      "medications": [
+        {
+          "medicineName": "Paracetamol",
+          "strength": "650 mg",
+          "dosage": "1 tablet",
+          "frequency": "TID",
+          "duration": "3 days",
+          "instructions": "Take after meals"
+        }
+      ],
+      "lifestyleDietAdvice": "Warm saline gargles, plenty of fluids",
+      "followUp": "Follow-up in 5 days if fever develops",
+      "doctorsNotes": "Observation only"
+    },
+    "status": "approved",
+    "created_at": "2026-10-25T10:55:31.646Z",
+    "updated_at": "2026-10-25T10:55:31.746Z",
+    "approved_at": "2026-10-25T10:55:31.746Z"
+  },
+  {
+    "prescription_id": "rx-devi-prasad-001",
+    "patient_id": "PID-2026-004",
+    "doctor_id": "doctor@satark.ai",
+    "doctor_name": "Dr. Harini, MD",
+    "visit_date": "2026-10-31",
+    "provisional_diagnosis": "Acute bronchitis (inflammation of the airways)",
+    "medications_json": [
+      {
+        "medicineName": "Guaifenesin (Extended-Release)",
+        "strength": "600 mg",
+        "dosage": "1 tablet",
+        "frequency": "Every 12 hours (Q12H)",
+        "duration": "7 days (Quantity: 14 tablets)",
+        "instructions": "Take 1 tablet every 12 hours with a full glass of water. Expectorant to thin mucus.",
+        "purpose": "Expectorant to thin and loosen mucus in bronchial airways"
+      },
+      {
+        "medicineName": "Ibuprofen",
+        "strength": "400 mg",
+        "dosage": "1 tablet",
+        "frequency": "Every 6–8 hours as needed (PRN)",
+        "duration": "As needed (Quantity: 20 tablets)",
+        "instructions": "Take 1 tablet every 6–8 hours as needed with food for chest soreness and fever.",
+        "purpose": "Relieves chest soreness, inflammation, and mild fever"
+      },
+      {
+        "medicineName": "Albuterol HFA Inhaler",
+        "strength": "90 mcg/actuation (HFA)",
+        "dosage": "2 puffs",
+        "frequency": "Every 4–6 hours as needed (PRN)",
+        "duration": "As needed (Quantity: 1 inhaler)",
+        "instructions": "Inhale 2 puffs every 4–6 hours only as needed to open airways and relieve wheezing.",
+        "purpose": "Bronchodilator to open airways and relieve wheezing"
+      }
+    ],
+    "diet_advice": "Rest up adequately, use a humidifier at home, and drink plenty of water to help thin mucus. Note that while acute symptoms improve in 1 week, a mild cough can linger for 2 to 3 weeks.",
+    "follow_up": "Come back in 10 days if not improving. Go to the emergency room immediately if you develop a high fever, cough up blood, or experience severe shortness of breath.",
+    "doctors_notes": "Etiology is >95% viral; antibiotic therapy is contraindicated and will not benefit. Penicillin allergy confirmed (severe rash) — all beta-lactam antibiotics strictly contraindicated. Lungs auscultated clear in lower fields; normal oxygen saturation (98%). Reassured patient that a post-viral cough commonly lingers for 2–3 weeks. Emergency red-flag warning signs explained.",
+    "full_prescription_json": {
+      "patientDetails": {
+        "patientName": "Devi Prasad",
+        "patientId": "PID-2026-004",
+        "age": "34",
+        "gender": "Male",
+        "height": "175 cm",
+        "weight": "74 kg",
+        "bmi": "24.2 (Normal)",
+        "bloodGroup": "B+",
+        "allergies": "Penicillin (causes severe rash — penicillin family of medications strictly contraindicated)",
+        "date": "2026-10-31",
+        "consultingDoctor": "Dr. Harini, MD"
+      },
+      "chiefComplaint": "Cough for 1 week following a cold, with thick yellowish-green mucus, chest tightness and soreness, and severe exhaustion.",
+      "historyOfPresentIllness": "Patient reports a 1-week history of cough following a cold, which started dry and progressed to coughing up thick, yellowish-green mucus. Accompanied by chest tightness, soreness, low-grade fever (99.8°F), and generalized exhaustion. Patient denies chronic respiratory illness including asthma and takes no regular daily medications. Lower lung fields remain clear on examination.",
+      "pastMedicalHistory": "No chronic medical conditions reported (specifically denies asthma; takes no daily medications).",
+      "allergies": "Penicillin (causes severe rash — penicillin family of medications strictly contraindicated)",
+      "vitals": {
+        "temperature": "99.8 °F (37.7 °C)",
+        "bloodPressure": "120/80 mmHg",
+        "pulse": "76 bpm",
+        "spo2": "98%",
+        "respiratoryRate": "16 breaths/min"
+      },
+      "clinicalExamination": "Chest Auscultation: Wheezing and rattling breath sounds noted in upper chest; lower lung fields are clear bilaterally with no crepitations. General appearance: Vitals stable.",
+      "provisionalDiagnosis": "Acute bronchitis (inflammation of the airways)",
+      "diseaseDescription": "Acute bronchitis is an inflammation of the large bronchial airways usually triggered by a viral respiratory infection. Treatment centers on thinning mucus, opening airways, and symptom relief.",
+      "investigationsAdvised": "No investigations ordered (Doctor explicitly determined Chest X-ray and antibiotics are unnecessary due to 98% SpO2, clear lower lung bases, and >95% viral etiology).",
+      "medications": [
+        {
+          "medicineName": "Guaifenesin (Extended-Release)",
+          "strength": "600 mg",
+          "dosage": "1 tablet",
+          "frequency": "Every 12 hours (Q12H)",
+          "duration": "7 days (Quantity: 14 tablets)",
+          "instructions": "Take 1 tablet every 12 hours with a full glass of water. Expectorant to thin mucus.",
+          "purpose": "Expectorant to thin and loosen mucus in bronchial airways"
+        },
+        {
+          "medicineName": "Ibuprofen",
+          "strength": "400 mg",
+          "dosage": "1 tablet",
+          "frequency": "Every 6–8 hours as needed (PRN)",
+          "duration": "As needed (Quantity: 20 tablets)",
+          "instructions": "Take 1 tablet every 6–8 hours as needed with food for chest soreness and fever.",
+          "purpose": "Relieves chest soreness, inflammation, and mild fever"
+        },
+        {
+          "medicineName": "Albuterol HFA Inhaler",
+          "strength": "90 mcg/actuation (HFA)",
+          "dosage": "2 puffs",
+          "frequency": "Every 4–6 hours as needed (PRN)",
+          "duration": "As needed (Quantity: 1 inhaler)",
+          "instructions": "Inhale 2 puffs every 4–6 hours only as needed to open airways and relieve wheezing.",
+          "purpose": "Bronchodilator to open airways and relieve wheezing"
+        }
+      ],
+      "lifestyleDietAdvice": "Rest up adequately, use a humidifier at home, and drink plenty of water to help thin mucus. Note that while acute symptoms improve in 1 week, a mild cough can linger for 2 to 3 weeks.",
+      "followUp": "Come back in 10 days if not improving. Go to the emergency room immediately if you develop a high fever, cough up blood, or experience severe shortness of breath.",
+      "doctorsNotes": "Etiology is >95% viral; antibiotic therapy is contraindicated and will not benefit. Penicillin allergy confirmed (severe rash) — all beta-lactam antibiotics strictly contraindicated. Lungs auscultated clear in lower fields; normal oxygen saturation (98%). Reassured patient that a post-viral cough commonly lingers for 2–3 weeks. Emergency red-flag warning signs explained."
+    },
+    "status": "approved",
+    "created_at": "2026-10-31T08:00:00.000Z",
+    "updated_at": "2026-10-31T08:00:00.000Z",
+    "approved_at": "2026-10-31T08:00:00.000Z"
+  }
+]

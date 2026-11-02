@@ -1,0 +1,50 @@
+[
+  {
+    "id": "apt-1793467051042",
+    "patientId": "PID-2026-001",
+    "doctorName": "Dr. Harini, MD",
+    "department": "Internal Medicine",
+    "hospital": "Satark Clinical Medical Center",
+    "date": "2026-12-01",
+    "time": "11:30 AM",
+    "status": "Confirmed",
+    "notes": "Follow-up consultation",
+    "createdAt": "2026-10-31T17:17:31.042Z"
+  },
+  {
+    "id": "apt-1793462187094",
+    "patientId": "PID-2026-001",
+    "doctorName": "Dr. Harini, MD",
+    "department": "Internal Medicine",
+    "hospital": "Satark Clinical Medical Center",
+    "date": "2026-11-15",
+    "time": "10:00 AM",
+    "status": "Confirmed",
+    "notes": "Routine follow-up",
+    "createdAt": "2026-10-31T15:56:27.094Z"
+  },
+  {
+    "id": "apt-1793462147437",
+    "patientId": "PID-2026-001",
+    "doctorName": "Dr. Harini, MD",
+    "department": "Internal Medicine",
+    "hospital": "Satark Clinical Medical Center",
+    "date": "2026-11-15",
+    "time": "10:00 AM",
+    "status": "Confirmed",
+    "notes": "Routine follow-up",
+    "createdAt": "2026-10-31T15:55:47.437Z"
+  },
+  {
+    "id": "apt-initial-001",
+    "patientId": "PID-2026-001",
+    "doctorName": "Dr. Harini, MD",
+    "department": "Internal Medicine",
+    "hospital": "Satark Clinical Medical Center",
+    "date": "2026-08-10",
+    "time": "10:00 AM",
+    "status": "Confirmed",
+    "notes": "Follow-up consultation for hypertension and routine health assessment.",
+    "createdAt": "2026-10-31T15:55:47.440Z"
+  }
+]

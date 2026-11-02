@@ -1,0 +1,80 @@
+[
+  {
+    "id": "usr-doctor-001",
+    "email": "doctor@satark.ai",
+    "passwordHash": "$2b$10$uV4ayxMXNlsMYLGPRl8skOoLCwUvKkZHM9LGhMW64VwgVTF6bmsBW",
+    "role": "doctor",
+    "name": "Dr. Harini, MD",
+    "createdAt": "2026-10-25T09:17:05.510Z",
+    "updatedAt": "2026-10-25T09:17:05.510Z"
+  },
+  {
+    "id": "usr-doctor-002",
+    "email": "doctor@kateb.ai",
+    "passwordHash": "$2b$10$uV4ayxMXNlsMYLGPRl8skOoLCwUvKkZHM9LGhMW64VwgVTF6bmsBW",
+    "role": "doctor",
+    "name": "Dr. Harini, MD",
+    "createdAt": "2026-10-25T09:17:05.510Z",
+    "updatedAt": "2026-10-25T09:17:05.510Z"
+  },
+  {
+    "id": "usr-patient-001",
+    "email": "harini@satark.ai",
+    "passwordHash": "$2b$10$uV4ayxMXNlsMYLGPRl8skOoLCwUvKkZHM9LGhMW64VwgVTF6bmsBW",
+    "role": "patient",
+    "name": "Harini Al-Mansoor",
+    "patientId": "PID-2026-001",
+    "createdAt": "2026-10-25T09:17:05.510Z",
+    "updatedAt": "2026-10-25T09:17:05.510Z"
+  },
+  {
+    "id": "usr-patient-002",
+    "email": "harini@kateb.ai",
+    "passwordHash": "$2b$10$uV4ayxMXNlsMYLGPRl8skOoLCwUvKkZHM9LGhMW64VwgVTF6bmsBW",
+    "role": "patient",
+    "name": "Harini Al-Mansoor",
+    "patientId": "PID-2026-001",
+    "createdAt": "2026-10-25T09:17:05.510Z",
+    "updatedAt": "2026-10-25T09:17:05.510Z"
+  },
+  {
+    "id": "usr-patient-003",
+    "email": "patient@satark.ai",
+    "passwordHash": "$2b$10$uV4ayxMXNlsMYLGPRl8skOoLCwUvKkZHM9LGhMW64VwgVTF6bmsBW",
+    "role": "patient",
+    "name": "Harini Al-Mansoor",
+    "patientId": "PID-2026-001",
+    "createdAt": "2026-10-25T09:17:05.510Z",
+    "updatedAt": "2026-10-25T09:17:05.510Z"
+  },
+  {
+    "id": "usr-patient-1792925699064",
+    "email": "khalid.zahrani@example.com",
+    "passwordHash": "$2b$10$RzXfqvkXV2EjBdvWRru3qOeZa0mY9qZl.Iw.MUip1L6rScn7VUWoK",
+    "role": "patient",
+    "name": "Khalid Al-Zahrani",
+    "patientId": "PID-2026-002",
+    "createdAt": "2026-10-25T10:54:59.064Z",
+    "updatedAt": "2026-10-25T10:54:59.064Z"
+  },
+  {
+    "id": "usr-patient-devi-001",
+    "email": "devi@satark.ai",
+    "passwordHash": "$2b$10$uV4ayxMXNlsMYLGPRl8skOoLCwUvKkZHM9LGhMW64VwgVTF6bmsBW",
+    "role": "patient",
+    "name": "Devi Prasad",
+    "patientId": "PID-2026-004",
+    "createdAt": "2026-10-31T08:00:00.000Z",
+    "updatedAt": "2026-10-31T08:00:00.000Z"
+  },
+  {
+    "id": "usr-patient-devi-002",
+    "email": "devi.prasad@example.com",
+    "passwordHash": "$2b$10$uV4ayxMXNlsMYLGPRl8skOoLCwUvKkZHM9LGhMW64VwgVTF6bmsBW",
+    "role": "patient",
+    "name": "Devi Prasad",
+    "patientId": "PID-2026-004",
+    "createdAt": "2026-10-31T08:00:00.000Z",
+    "updatedAt": "2026-10-31T08:00:00.000Z"
+  }
+]
